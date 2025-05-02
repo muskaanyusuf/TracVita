@@ -48,7 +48,7 @@ dependencies:
   awesome_notifications: ^0.9.3+1
   table_calendar: ^3.1.1
   flutter_datetime_picker: ^1.4.1
-  carousel_slider: ^4.2.1
+  carousel_slider: ^5.0.0
   fl_chart: ^0.68.0
 
 
